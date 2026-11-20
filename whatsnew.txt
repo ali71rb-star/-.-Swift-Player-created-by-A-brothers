@@ -1,2 +1,8 @@
-Swift Player Created by A brothers — 1.0
-Visible Markhor startup and startup sound in normal/Open with launches. Full app heading in both player entry paths. Faster existing-permission file edits with Android consent when required. No checkbox or Unchecked announcement in normal file browsing. More reliable fixed-commit GitHub updates and automatic downloads when enabled. New About > App Log: opt-in Scan, device details, actual recorded errors, fix guidance and text-file viewing/sharing.
+| Hissa | Tabdeeli |
+| --- | --- |
+| **Check Automatic Update** | ON hone par normal startup aur **Open with** dono mein wahi **Update Available** dialog aata hai jo manual check mein aata hai. APK download sirf **Download** dabane par shuru hota hai. |
+| **Tutorial aur APK storage** | Dono apne original filenames ke saath app ki private storage mein save hote hain, public Download folder mein nahi. Nayi APK verify hone ke baad purani private APK remove hoti hai. Install ki final confirmation Android deta hai. |
+| **About aur credits** | **Swift Player Tester** ko **Check for update** ke left mein rakha hai. About mein version details nahi hain. Ahmad Ali, Ali Gujjar aur Azlan Tahir ke credits alag-alag screen-reader focus items hain. |
+| **Swift Player Tester** | Silent audio aur sample video se playback, seek, replay aur video decoding ke checks karta hai. Temporary files par sorting, filtering, rename/delete aur update file bhi check karta hai. Report actual problems aur **not verified** results alag dikhati hai. |
+| **Open with: Delete / Rename** | App selected file ki identity verify karti hai; sirf same naam wali doosri file ko original nahi maanti. Agar source app read-only access de aur Android write permission na de, file change nahi hogi. |
+| **Notification controls** | Normal aur Open with playback ke media controls mein **Stop** hai. Stop playback band karta hai aur media notification hata deta hai. Compact panel mein kaun se controls nazar aate hain, yeh Android tay karta hai. |
